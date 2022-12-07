@@ -9,7 +9,7 @@ metadata:
   operators_namespace: cpd-operators
 
 # https://www.ibm.com/docs/en/cloud-paks/cp-data/4.5.x?topic=information-determining-which-components-install
-components: cpfs,scheduler,cpd_platform,rstudio,wml,ws
+components: cpfs,scheduler,cpd_platform,ws
 
 storageclass:
   rwo: ocs-storagecluster-ceph-rbd
